@@ -28,11 +28,7 @@
 
 <p><img align="left" width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=eggngineer&" alt="eggngineer" /></p>
 
-</div>
 
-<div>
 <h1>Contribution</h1>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-</div>
